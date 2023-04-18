@@ -1,6 +1,6 @@
 # Basic Pong Game Prototype
 
-Simple Python project used to demonstrate Pygame to students in a summer camp.\
+Simple Python project used to demonstrate Pygame to students in a summer camp.
 
 ![Game](https://github.com/DVDOSO/pong/blob/main/image.png?raw=true)
 
